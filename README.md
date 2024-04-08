@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas Fernandez
-=======================================================================================================================================
 
-Software Developer
-------------------
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1>
+</div>
 
-* ✉️  You can contact me at [flucasyoel@outlook.es](mailto:flucasyoel@outlook.es)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=610083D2&random=false&width=435&lines=Full-Stack-Developer...+%2F%3E;flucasyoel%40outlook.es)](https://git.io/typing-svg)
 
 ### Skills
 
