@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=33&pause=1000&color=610083D2&random=false&width=435&lines=Full-Stack-Developer...+%2F%3E;flucasyoel%40outlook.es" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=33&pause=1000&color=610083D2&random=false&width=435&lines=BackEnd-Developer...+%2F%3E;flucasyoel%40outlook.es" alt="Typing SVG" /></a>
 </div>
 
 ### Skills
