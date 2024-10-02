@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/84f12b21-49b3-4f62-bc50-bcf82be781ed)
 <div align="center">
 <h1 align="center">Hello, I'm <a href="#">Lucas Fernandez🦇</a> 👋</h1>
 </div>
