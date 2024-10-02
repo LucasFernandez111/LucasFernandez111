@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/84f12b21-49b3-4f62-bc50-bcf82be781ed)
 <div align="center">
 <h1 align="center">Hello, I'm <a href="#">Lucas Fernandez🦇</a> 👋</h1>
 </div>
@@ -98,7 +98,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
   </a>
   <a href="https://www.prisma.io/">
-<img src="https://prismalens.vercel.app/header/logo-white.svg"  width="66" height="66">
+<img src="https://github.com/user-attachments/assets/4cef58ff-1ea1-455b-9e8b-a9ff86019fc8"  width="36" height="36">
   </a>
 </p>
 
