@@ -98,7 +98,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
   </a>
   <a href="https://www.prisma.io/">
-<img src="https://prismalens.vercel.app/header/logo-white.svg"  width="36" height="36">
+<img src="https://prismalens.vercel.app/header/logo-white.svg"  width="46" height="46">
   </a>
 </p>
 
